@@ -1,0 +1,6 @@
+# Miscellaneous
+.DS_Store
+
+# Project files
+.sessions/
+targets/
